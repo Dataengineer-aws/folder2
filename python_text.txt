@@ -1,1 +1,0 @@
-Python is powerfull and also good for data processing.
